@@ -1,0 +1,12 @@
+b469788603a864fe8c661755812eab13 *DESCRIPTION
+e134ed75a276a837c7e3915d143a4f3b *LICENSE
+c611bcc655432820b9d0b4c2843b938c *NAMESPACE
+3b336b16397d29595ec234abe00ada6d *R/retry.R
+fa09b7a4e7cd9e6540132765943a5850 *R/wait.R
+36f2b080862300f036c6fadd51e7a200 *README.md
+a6093686ecdcb0a4605a8b84dee95385 *man/retry-package.Rd
+525ce7f986bdbff0dcd2ddc269bb32ea *man/retry.Rd
+8e0f5c233190dadfbe9c55dbb8e4666b *man/wait_until.Rd
+dac0241b93d6214a8f644f6fe68ca66e *tests/testthat.R
+83f95f38f7f4f9ddf8341628fa678bc1 *tests/testthat/test-retry.R
+153a6fbc4482cda4321b75be33885444 *tests/testthat/test-wait.R
